@@ -1,0 +1,6 @@
+{
+    "getContractState": "0x7f4e4849",
+    "getRegistrationDetails": "0xd93ced70",
+    "balanceOf": "0x70a08231",
+    "erc20Transfer": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef"
+}
